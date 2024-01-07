@@ -255,8 +255,8 @@ const timeoutSwitchOn = (start : Number, finish : Number) => {
 .cells-row__item {
     cursor: pointer;
     position: relative;
-    width: 89.2px;
-    height: 90.5px;
+    width: 89px;
+    height: 89px;
 }
 
 .chip {
